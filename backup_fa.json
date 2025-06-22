@@ -1,0 +1,1 @@
+[{"model": "books.book", "pk": 1, "fields": {"title": "جنگ و صلح", "author": "لئو تولستوی", "isbn": "9789643510011", "genre": "رمان", "quantity": 1, "available": 1, "description": "", "publisher": "", "publish_year": 1401, "cover": "book_covers/جنگ_و_صلح_ErT3X3L.jpg", "pages": 1466}}]
